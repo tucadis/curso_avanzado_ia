@@ -151,7 +151,7 @@ Si te gusta y aporta este curso, regalame una estrella, si no te gusta, dime en 
 
 - **Issues**: Reporta problemas o sugiere mejoras en GitHub Issues
 - **Discusiones**: Únete a las discusiones en GitHub Discussions
-- **Comunidad**: Únete a nuestro Discord/Slack para networking
+- **Comunidad**: Envia un correo o contactame para unirte al grupo de whatsapp Tertulias IA.
 
 ## 🎓 Sobre el Curso
 
