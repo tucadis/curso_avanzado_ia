@@ -145,7 +145,7 @@ Este es un curso vivo que se actualiza constantemente. Las contribuciones son bi
 
 ## 📝 Licencia
 
-Este curso está bajo licencia MIT. Ver el archivo `LICENSE` para más detalles.
+Si te gusta y aporta este curso, regalame una estrella, si no te gusta, dime en que podemos mejorar.
 
 ## 📧 Contacto y Soporte
 
