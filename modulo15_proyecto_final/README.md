@@ -457,9 +457,9 @@ rubric = {
 
 ## Soporte
 
-- Discord: #proyecto-final
+
 - Office Hours: Martes y Jueves 18:00-19:00
-- Email: soporte@curso-ia-avanzado.com
+- Email: info@tucadis.cl
 
 ---
 
